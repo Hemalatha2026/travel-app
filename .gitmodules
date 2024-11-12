@@ -1,0 +1,6 @@
+[submodule "travel-website"]
+	path = travel-website
+	url = https://github.com/Hemalatha2026/mern_travel.git
+[submodule "mern_travel"]
+	path = mern_travel
+	url = https://github.com/Hemalatha2026/mern_travel.git
